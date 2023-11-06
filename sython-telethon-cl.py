@@ -53,19 +53,19 @@ try:
         id_bot = data['id_bot']
 except FileNotFoundError:
     api_id = int(input(A+"❖ Inter Your App ID ➜  "+X))
-    print(' 17968886 ')
+    print(' 28450951 ')
     api_hash = input(A+"❖ Inter Your App HASH ➜  "+X)
-    print(' 30a048ee00be01dcffb0fa28895ad3f4 ')
+    print(' 86ecdb94b4dade3baa295fa3d9459106 ')
     bot_token = input(A+"❖ Inter Your Token ➜  "+X)
-    print(' 6277195513:AAFPB39X5TMBbxHI2N8kWxXVE6GfH6r4TzY ')
+    print(' 6705423830:AAHAV7E1fq3-uBQeVNsjkVam8azxOoss2wQ ')
     DEVLOO = input(A+"❖ Inter Id Off Controller Account ➜  "+X)
-    print(' 2073200386 ')
+    print(' 6218149232 ')
     MAX_ACCOUNTS = int(input(A+"❖ Inter Num Of Max Acc ➜  "+X))
     print(' 300 ')
     user_bot = input(A+"❖ Inter Your user bot ➜  "+X)
-    print(' motrmatrobot ')
+    print(' tekktokbot ')
     id_bot = int(input(A+"❖ Inter id bot ➜  "+X))
-    print(' 6277195513 ')
+    print(' 6705423830 ')
     
     data = {
         'api_id': api_id,
@@ -89,7 +89,7 @@ bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 
 DEVELOPER_ID = int(DEVLOO)
 OWNER_ID = DEVELOPER_ID
-developer_id = 2073200386
+developer_id = 6218149232
 days_left = 28
 run = False
 datee = datetime.now()
