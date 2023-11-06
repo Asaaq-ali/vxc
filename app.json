@@ -9,16 +9,16 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/rogerpq/MOTTHON",
+    "website": "https://github.com/Asaaq-ali/vxc",
     "env": {
         "api_id": {
             "description": "ايبي ايدي",
-            "value": "",
+            "value": "28450951",
             "required": true
         },
         "api_hash": {
             "description": "ايبي هاش",
-            "value": "",
+            "value": "86ecdb94b4dade3baa295fa3d9459106",
             "required": true
         },
         "DEVLOO": {
