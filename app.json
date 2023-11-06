@@ -23,22 +23,22 @@
         },
         "DEVLOO": {
             "description": "ايـدي الـمـطور",
-            "value": "",
+            "value": "6218149232",
             "required": true
         },
         "bot_token": {
             "description": "توكن البوت",
-            "value": "",
+            "value": "6705423830:AAHAV7E1fq3-uBQeVNsjkVam8azxOoss2wQ",
             "required": true
         },
         "user_bot": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "",
+            "value": "tekktokbot",
             "required": true
         },
         "id_bot": {
             "description": "يوزر البوت",
-            "value": "",
+            "value": "6705423830",
             "required": true
         }
     }
